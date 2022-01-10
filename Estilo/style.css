@@ -20,12 +20,12 @@
     font-weight: normal;
 }
 :root{
- --cor0: #c5ebd6;
- --cor1: #83e1ad;
- --cor2: #3ddc84;
- --cor3: #2fa866;
- --cor4: #1a5c37;
- --cor5: #063d1e;
+ --cor0: #E8C71E;
+ --cor1: #F2BA1F;
+ --cor2: #DB9927;
+ --cor3: #F28B1F;
+ --cor4: #E8681E;
+ --cor5: #EB4A2F;
 
  --fonte-padrao: arial, Verdana, Helvetica, sans-serif;
  --fonte-destaque: 'Bebas Neue', cursive;
@@ -37,7 +37,7 @@
 
 
 body{
-background-image: linear-gradient(to bottom, rgb(233, 241, 185), rgb(93, 94, 45));
+background-color: #e9d9af;
 background-attachment: fixed;
 font-family: var(--fonte-padrão);
 }
